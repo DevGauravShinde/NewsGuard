@@ -1,7 +1,7 @@
 ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 
-# 🛡️ NewsGuard - Fake News Analyzer
+# 🛡️ NewsGuard - Fake News detection AI
 
 NewsGuard is an AI-powered tool that analyzes news headlines to detect potential misinformation. It uses **BART for summarization** and **SBERT for semantic similarity analysis** to cross-reference the headline with real-time news articles from credible sources.
 
