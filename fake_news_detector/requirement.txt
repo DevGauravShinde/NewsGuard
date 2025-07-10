@@ -6,3 +6,4 @@ newspaper3k
 requests
 torch
 python-dotenv
+lxml[html_clean]
