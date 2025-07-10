@@ -39,9 +39,9 @@ cd NewsGuard/fake_news_detector
 
 # 2.Setup environment :
 python -m venv .venv
-# For Windows:
+ For Windows:
 .venv\Scripts\activate
-# For Mac/Linux:
+ For Mac/Linux:
 source .venv/bin/activate
 
 
